@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2016/11/15/start_again/</loc>
+    <loc>https://pq3online.github.io/about/index.html</loc>
+    
+    <lastmod>2016-11-15T08:12:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pq3online.github.io/2016/11/15/start_again/</loc>
     
     <lastmod>2016-11-15T08:02:37.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2016-11-15T06:45:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/11/15/hello-world/</loc>
+    <loc>https://pq3online.github.io/2016/11/15/hello-world/</loc>
     
     <lastmod>2016-11-15T06:24:18.000Z</lastmod>
     

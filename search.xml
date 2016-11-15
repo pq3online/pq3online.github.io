@@ -5,13 +5,13 @@
     
     <entry>
       <title><![CDATA[从头再来的程序员]]></title>
-      <url>http://yoursite.com/2016/11/15/start_again/</url>
+      <url>https://pq3online.github.io/2016/11/15/start_again/</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>http://yoursite.com/2016/11/15/hello-world/</url>
+      <url>https://pq3online.github.io/2016/11/15/hello-world/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -29,9 +29,9 @@
     
     <entry>
       <title><![CDATA[关于]]></title>
-      <url>http://yoursite.com/about/index.html</url>
-      <content type="html"><![CDATA[<p>从MTK（C语言）到安卓（JAVA）再到现在的IOS（Objective-C）<br>一直忙碌，可是到现在现在什么不精。<br>所以得从头再来…</p>
-<p>Nickname: <a href="https://pq3online.github.io" title="pq3online" target="_blank" rel="external">pq3online</a><br>Email: <a href="mailto:pq3online@gmail.com" title="pq3online@gmail.com" target="_blank" rel="external">pq3online@gmail.com</a><br>Github: <a href="https://github.com/pq3online" title="@pq3online" target="_blank" rel="external">@pq3online</a></p>
+      <url>https://pq3online.github.io/about/index.html</url>
+      <content type="html"><![CDATA[<p>Nickname: <a href="https://pq3online.github.io" title="pq3online">pq3online</a><br>Email: <a href="mailto:pq3online@gmail.com" title="pq3online@gmail.com" target="_blank" rel="external">pq3online@gmail.com</a><br>Github: <a href="https://github.com/pq3online" title="@pq3online" target="_blank" rel="external">@pq3online</a></p>
+<p>从MTK（C语言）到安卓（Java）再到现在的iOS（Objective-C）<br>一直忙碌，可是到现在现在什么不精。<br>所以得从头再来…</p>
 ]]></content>
     </entry>
     
