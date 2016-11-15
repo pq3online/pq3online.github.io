@@ -28,9 +28,11 @@
   
     
     <entry>
-      <title><![CDATA[about]]></title>
+      <title><![CDATA[关于]]></title>
       <url>http://yoursite.com/about/index.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p>从MTK（C语言）到安卓（JAVA）再到现在的IOS（Objective-C）<br>一直忙碌，可是到现在现在什么不精。<br>所以得从头再来…</p>
+<p>Nickname: <a href="https://pq3online.github.io" title="pq3online" target="_blank" rel="external">pq3online</a><br>Email: <a href="mailto:pq3online@gmail.com" title="pq3online@gmail.com" target="_blank" rel="external">pq3online@gmail.com</a><br>Github: <a href="https://github.com/pq3online" title="@pq3online" target="_blank" rel="external">@pq3online</a></p>
+]]></content>
     </entry>
     
   
