@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>从头再来的程序员</title>
-  <subtitle>C -&gt; Basic -&gt; Java -&gt; Objective-C，一不小心几年就过了，什么都不精。现在得从头再来了...</subtitle>
+  <subtitle>C -&gt; Java -&gt; Objective-C，一不小心几年就过了，什么都不精。现在得从头再来了...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://pq3online.github.io/"/>
+  <link href="http://blog.pq3online.com/"/>
   <updated>2016-11-15T15:58:58.000Z</updated>
-  <id>https://pq3online.github.io/</id>
+  <id>http://blog.pq3online.com/</id>
   
   <author>
     <name>pq3online</name>
-    
+    <email>pq3online@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>从头再来</title>
-    <link href="https://pq3online.github.io/2016/11/15/start_again/"/>
-    <id>https://pq3online.github.io/2016/11/15/start_again/</id>
+    <link href="http://blog.pq3online.com/2016/11/15/start_again/"/>
+    <id>http://blog.pq3online.com/2016/11/15/start_again/</id>
     <published>2016-11-15T01:26:53.000Z</published>
     <updated>2016-11-15T15:58:58.000Z</updated>
     
